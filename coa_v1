@@ -1,4 +1,4 @@
 #lock disable = 0
 #lock enable = 1
-lock_status=0
+lock_status=1
 key=password
