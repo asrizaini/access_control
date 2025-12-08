@@ -1,3 +1,4 @@
 #lock disable = 0
 #lock enable = 1
 lock_status=0
+key=tester123
