@@ -1,0 +1,17 @@
+{
+  "isLock": 0,
+  "isSecure": 0,
+  "user": [
+    {
+      "name": "name1",
+      "idsid": "idsid1",
+      "email": "email1"
+    },
+    {
+      "name": "name2",
+      "idsid": "idsid2",
+      "email": "email2"
+    }
+  ],
+  "EncKey": "MTEzNjM3OTQ="
+}
