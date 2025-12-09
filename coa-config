@@ -1,5 +1,5 @@
 #lock disable = 0
 #lock enable = 1
-lock_status=0
+lock_status=1
 password=0
 key=@11363794
